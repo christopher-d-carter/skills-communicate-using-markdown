@@ -7,6 +7,6 @@
 ``` python
 modulus = lambda x: x % 2
 ```
-- [ ] Create a GitHub Account
-- [ ] Complete Intro to GitHub
-- [ ] Complete Markdown Tutorial
+- [X] Create a GitHub Account
+- [X] Complete Intro to GitHub
+- [X] Complete Markdown Tutorial
